@@ -20,6 +20,7 @@ def checkBtacket(expr):
                 return False
         else:
             pass
+        
     if st.isStackEmpty():
         return True
     else:
